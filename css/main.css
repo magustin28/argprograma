@@ -1,12 +1,13 @@
-/* *{
-    border: 1px solid black;
- } */
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    /* border: solid 1px #000; */
+}
 
- header{
-	background: #fff;
-	border-bottom-right-radius: 5px;
-    border-bottom-left-radius: 5px; 
- }
+body{
+	font-family: Arial, Helvetica, sans-serif;
+}
 
 
 /* <!-- Boton-Whatsapp --> */
