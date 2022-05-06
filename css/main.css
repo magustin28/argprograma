@@ -9,6 +9,24 @@ body{
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+.logo{
+	width: 80%;
+	height: auto;
+}
+
+.logo-mp{
+	width: 70%;
+	border-radius: 50%;
+}
+
+/* .navbar-expand-md {
+	display: block;
+    text-align: center;
+} */
+
+.accordion-button{
+	padding: 0.25rem 0;
+}
 
 /* <!-- Boton-Whatsapp --> */
 .wap{
